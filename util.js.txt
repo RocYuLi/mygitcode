@@ -14,3 +14,5 @@ addloginin
 
 88888 --kerwin
 88888 --tiechui
+
+这是我小号 添加新功能了
